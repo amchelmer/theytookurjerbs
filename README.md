@@ -1,4 +1,4 @@
-They took ur jerbs!
+# They took ur jerbs!
 
 This is a chrome plugin to change all instances of `job` on a page to `jerbs`. Respects capitalization.
 
